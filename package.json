@@ -1,0 +1,25 @@
+{
+  "name": "cmd-banner",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "lib"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwarzdavid/cmd-banner.git"
+  },
+  "author": "David Schwarz <schwarz.david10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schwarzdavid/cmd-banner/issues"
+  },
+  "homepage": "https://github.com/schwarzdavid/cmd-banner#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
