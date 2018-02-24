@@ -11,6 +11,10 @@
 - printSmall(text)
 - print(text)
 
+## Usage
+
+Install with npm `npm i -S cmd-banner`
+
 ## Testing
 
 Run `npm test`
